@@ -1,0 +1,4 @@
+.env
+/langchain-docs
+/llamaindex-docs
+/venv
